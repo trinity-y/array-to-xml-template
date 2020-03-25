@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <Contact>
+    <Name>Patrick Hines</Name>
+    <Phone Type="Home">206-555-0144</Phone>
+    <phone Type="Work">425-555-0145</phone>
+    <Address>
+      <Street1>123 Main St</Street1>
+      <City>Mercer Island</City>
+      <State>WA</State>
+      <Postal>68042</Postal>
+    </Address>
+  </Contact>
+</Contacts>

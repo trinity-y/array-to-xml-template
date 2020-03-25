@@ -1,0 +1,10 @@
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\bin\Debug\xmlFileTest2.exe.config
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\bin\Debug\xmlFileTest2.exe
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\bin\Debug\xmlFileTest2.pdb
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\obj\Debug\xmlFileTest2.csprojAssemblyReference.cache
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\obj\Debug\xmlFileTest2.Form1.resources
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\obj\Debug\xmlFileTest2.Properties.Resources.resources
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\obj\Debug\xmlFileTest2.csproj.GenerateResource.cache
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\obj\Debug\xmlFileTest2.csproj.CoreCompileInputs.cache
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\obj\Debug\xmlFileTest2.exe
+C:\Users\trin\source\repos\xmlFileTest2\xmlFileTest2\obj\Debug\xmlFileTest2.pdb
